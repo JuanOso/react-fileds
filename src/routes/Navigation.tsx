@@ -16,7 +16,7 @@ export const Navigation = () => {
                   to="/home"
                   className={({ isActive }) => (isActive ? "nav-active" : "")}
                 >
-                  Home
+                  Shopping
                 </NavLink>
               </li>
               <li>
